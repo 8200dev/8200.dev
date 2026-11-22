@@ -7,6 +7,10 @@
 <p align="center"><a href="https://8200.dev/en?utm_source=github&utm_medium=readme"><b>Scan your GitHub free &rarr;</b></a><br>
 <sub>No credit card. Read-only scopes. Never your source code.</sub></p>
 
+![8200.dev: a short tour of the public pages](assets/demo.gif)
+
+A short tour of the public pages (recorded 22 November 2026): home, pricing, sign-up.
+
 ## Why try it
 - **No sales call. No demo gate.** Connect a source and see which agents hold the keys in minutes.
 - **Read-only.** Every organization starts on Detect & Alert, which only reads.

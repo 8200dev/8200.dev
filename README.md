@@ -29,3 +29,4 @@ Bug, question or a source you want next? Open an [Issue](../../issues) or a [Dis
 
 ## About this repository
 Public docs, screenshots and examples for 8200.dev. The service is hosted; its source code is not in this repository.
+Docs and images: [CC BY 4.0](LICENSE).
